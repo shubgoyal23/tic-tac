@@ -1,0 +1,45 @@
+table{
+    border-collapse: collapse;
+    margin: auto;
+}
+td{
+    border: 1px solid black;
+    font-size: 1.5rem;
+    height: 3rem;
+    width: 3rem;
+    text-align: center;
+    cursor: pointer;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: lightgoldenrodyellow;
+}
+div{
+    display: block;
+    text-align: center;
+}
+button{
+    height: 50px;
+    width: 200px;
+    border-radius: 5rem;
+    background-color: darkgoldenrod;
+    color: wheat;
+    font-size: 1rem;
+    cursor: pointer;
+}
+h1{
+    color: darkgoldenrod;
+    font-size: 3rem;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+h5{
+    font-size: 1rem;
+}
